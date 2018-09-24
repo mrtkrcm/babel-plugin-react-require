@@ -1,5 +1,6 @@
-/lib/
+# /lib/
 /node_modules/
 /html-report/
 /lib-cov/
 /package-lock.json
+/yarn.lock
